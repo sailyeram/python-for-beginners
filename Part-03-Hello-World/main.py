@@ -1,1 +1,2 @@
-add hellow world here/
+# Print statement to display "Hello World"
+print("Hello World")
